@@ -1,0 +1,23 @@
+body {
+  background-color: #f0fff0;
+}
+
+.fizz-buzz {
+  font-size: 32px;
+  color: #293944;
+}
+
+.fizz {
+  font-size: 24px;
+  color: #3B6064;
+}
+
+.buzz {
+  font-size: 24px;
+  color: #3B6064;
+}
+
+.none {
+  font-size: 16px;
+  color: #87BBA2;
+}
