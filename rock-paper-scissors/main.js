@@ -107,6 +107,11 @@ function game() {
     round();
   }
 
+  if(playerScore === 3) {
+    console.log("Player wins!");
+  } else {
+    console.log("Computer Wins!");
+  }
   console.log("Game Over, thanks for playing!");
 }
 
